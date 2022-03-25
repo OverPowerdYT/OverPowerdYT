@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Imag
-- 👀 I’m interested in discord bots
-- 🌱 I’m currently learning aoi.js
-- 📫 Invite My Bot [Rabbit](https://dsc.gg/rabbitbot)
+- Hi I Am Imag
+- I Am A Small Bot Dev
+- You Can Invite My Bot [Rabbit](https://dsc.gg/rabbitbot)
